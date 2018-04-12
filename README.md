@@ -13,6 +13,7 @@ Advances in R packages that access and analyze spatial data can simplify the res
 - Ryan Hill ([mailto:hill.ryan@epa.gov](hill.ryan@epa.gov)), ORISE at US EPA, Western Ecology Division
 - Marcus Beck ([mailto:marcusb@sccwrp.org](marcusb@sccwrp.org)), Southern California Coastal Water Research Project
 - Robert Francis ([mailto:francir3@miamioh.edu](francir3@miamioh.edu))
+- Amalia Handler ([mailto:amhandle@asu.edu](amhandle@asu.edu))
 
 # Schedule
 
